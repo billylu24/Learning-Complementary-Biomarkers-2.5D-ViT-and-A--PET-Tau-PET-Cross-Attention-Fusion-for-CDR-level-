@@ -1,0 +1,12 @@
+# IDE files
+.idea/
+
+# Data and models
+dataset/
+models/
+
+# Python cache files
+__pycache__/
+
+# File tree script
+file_tree.py
